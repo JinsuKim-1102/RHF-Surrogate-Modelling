@@ -1,4 +1,4 @@
-# JinsuKim-1102.github.io
+# RHF - Surrogate Modelling
 
 This is a code of research submitted entitled "Rotary hearth furnace for optimal steel solid waste recycling: The hybrid approach of mathematical modeling and machine learning using industrial-scale yearly operational data".
 
